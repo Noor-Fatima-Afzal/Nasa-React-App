@@ -2,6 +2,8 @@
 
 This project is a simple web application built with React that fetches and displays NASA's Astronomy Picture of the Day (APOD) using NASA's public API. The app caches the data in localStorage to avoid repeated API calls and provides an option to view additional information through a modal sidebar.
 
+![Architecture Diagram](nasa.png)
+
 ## Features
 
 - **Fetch NASA APOD**: Retrieves the Astronomy Picture of the Day from NASA's API.
